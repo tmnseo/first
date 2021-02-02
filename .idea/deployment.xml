@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="test">
+    <serverData>
+      <paths name="DEV STFP">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Fashion prod">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Ronda">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="SPL DEV">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="SPL DEV REPO">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="SPL DEV REPO (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="SPL PROD">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="SPL TEST">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="SPL TEST (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="test">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
